@@ -2,11 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/sample_feature_img_2.jpeg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+My name is Assaf Gamliel, I'm a Computer Scientist, Developer, Android Developer, Google Developers Group Lead, Hacker and above all a geek.
 
-Head over to the theme's Github repo for much more information about Type Theme or to install this theme for your very own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I hope you'll enjoy my blog.

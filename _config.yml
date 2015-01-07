@@ -7,14 +7,14 @@ theme:
   # Meta
   title: 𝜺Ps𝑖lおn
   # avatar: avatar.png
-  description: "Blog About Stuff I like (Developing, Hacking, Android, Algorithms...)" # used by search engines
+  description: "Blog About Stuff I Like (Developing, Hacking, Android, Algorithms...)" # used by search engines
 
   # Header and footer text
   header_text: >
      <p>Blog About Stuff I like (Developing, Hacking, Android, Algorithms...)</p>
 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html/">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a> licensed under the MIT License.
 
   # Icons
   rss: false
@@ -27,11 +27,11 @@ theme:
   github: "Epsiloni"
   google_plus: "+AssafGamliel"
   instagram:
-  linkedin:  # full URL
+  linkedin:  "https://www.linkedin.com/profile/view?id=102968938"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # full URL
+  stack_exchange:  "http://stackoverflow.com/users/1557187/assaf-gamliel"
   steam:
   tumblr:
   twitter: "0xKrypt"
