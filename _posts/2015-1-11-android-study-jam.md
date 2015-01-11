@@ -8,4 +8,4 @@ Students who finish the course will get a free Udacity course certification, pen
 
 Available spots: **40**
 
-[More info and prerequisites](https://developers.google.com/events/5417098355408896/)
+[More info and prerequisites](http://www.googledevelopersstudyjams.com)
